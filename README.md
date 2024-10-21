@@ -1,5 +1,5 @@
 ### Hi there 👋
-Are you a devtools founder? [Learn](https://www.danishkhan.org/) how I can help you.
+Are you a devtools founder? [Learn](https://www.dahhnishkhan.com/) how I can help you.
 
 
 
