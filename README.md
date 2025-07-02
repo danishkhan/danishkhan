@@ -1,6 +1,4 @@
 ### Hi there 👋
-Are you a founder? [Learn](https://www.dahhnishkhan.com/#advisor) how I can help you.
-
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=danishkhan)](https://github.com/ryo-ma/github-profile-trophy)
 ---
